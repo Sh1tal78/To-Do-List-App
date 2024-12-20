@@ -40,7 +40,8 @@ A simple Android app that helps users create and manage their to-do list. Users 
 2. In the main screen, enter a task in the input field and click Add to add it to the list.
 3. The task will appear in the list. To remove a task, click on it and confirm the deletion.
 
-###License
+### License
+
 This project is open-source and available under the MIT License.
 
 
